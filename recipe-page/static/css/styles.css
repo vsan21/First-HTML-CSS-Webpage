@@ -19,3 +19,9 @@ body {
 .description {
   width: 600px;
 }
+
+.left {
+  display: inline-block;
+  width: 600px;
+  float: left; 
+}
