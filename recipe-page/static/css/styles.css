@@ -1,3 +1,17 @@
 body {
   background-color: #cff9f9;
 }
+
+.head {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Poiret One', cursive;
+  font-size: 55px;
+}
+
+.subhead {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
